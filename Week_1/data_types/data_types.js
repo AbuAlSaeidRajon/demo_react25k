@@ -21,12 +21,12 @@ let info = {
 
 console.log("Age:", age);
 console.log("Name:", name);
-console.log("Is Student", isStudent);
-console.log("Hobbies", hobbies);
-console.log("Info", info);
+console.log("Is Student:", isStudent);
+console.log("Hobbies:", hobbies);
+console.log("Info:", info);
 
-console.log("Type of age", typeof age);
-console.log("Type of name", typeof name);
-console.log("Type of isStudent", typeof isStudent);
-console.log("Type of Hobbies", typeof hobbies);
-console.log("Type of Info", typeof info);
+console.log("Type of age:", typeof age);
+console.log("Type of name:", typeof name);
+console.log("Type of isStudent:", typeof isStudent);
+console.log("Type of Hobbies:", typeof hobbies);
+console.log("Type of Info:", typeof info);
