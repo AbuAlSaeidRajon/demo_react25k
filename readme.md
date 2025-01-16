@@ -50,6 +50,6 @@ To run this project on your local machine:
 ## Author
 
 - **Md Abu Al Saeid**
-- [GitHub Profile](//https://github.com/AbuAlSaeidRajon)
+- [GitHub Profile](https://github.com/AbuAlSaeidRajon)
 
 Feel free to contribute to this project or suggest improvements!
