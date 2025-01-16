@@ -15,11 +15,21 @@
 let a = 8;
 let b = 3;
 
-let sum = a + b;
-let difference = a - b;
-let product = a * b;
-let quotient = a / b;
-let remainder = a % b;
+let sum = a + b; 
+// The `+` operator adds the values of a and b.
+
+let difference = a - b; 
+// The `-` operator subtracts b from a.
+
+let product = a * b; 
+// The `/` operator divides a by b, returning the quotient.
+
+let quotient = a / b; 
+// The `*` operator multiplies a and b.
+
+let remainder = a % b; 
+// The `%` operator finds the remainder of the division of a by b.
+
 
 console.log("The sum of a and b is:", sum);
 console.log("The difference when b is subtracted from a is:", difference);
@@ -27,9 +37,3 @@ console.log("The product of a and b is:", product);
 console.log("The quotient when a is divided by b is:", quotient);
 console.log("The remainder when a is divided by b is:", remainder);
 
-// Step 4: Add comments to explain what each operation does
-// The `+` operator adds the values of a and b.
-// The `-` operator subtracts b from a.
-// The `*` operator multiplies a and b.
-// The `/` operator divides a by b, returning the quotient.
-// The `%` operator finds the remainder of the division of a by b.
