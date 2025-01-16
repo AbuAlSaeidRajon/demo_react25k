@@ -36,4 +36,3 @@ console.log("The difference when b is subtracted from a is:", difference);
 console.log("The product of a and b is:", product);
 console.log("The quotient when a is divided by b is:", quotient);
 console.log("The remainder when a is divided by b is:", remainder);
-
