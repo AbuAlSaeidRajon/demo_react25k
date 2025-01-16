@@ -26,3 +26,10 @@ console.log("The difference when b is subtracted from a is:", difference);
 console.log("The product of a and b is:", product);
 console.log("The quotient when a is divided by b is:", quotient);
 console.log("The remainder when a is divided by b is:", remainder);
+
+// Step 4: Add comments to explain what each operation does
+// The `+` operator adds the values of a and b.
+// The `-` operator subtracts b from a.
+// The `*` operator multiplies a and b.
+// The `/` operator divides a by b, returning the quotient.
+// The `%` operator finds the remainder of the division of a by b.
