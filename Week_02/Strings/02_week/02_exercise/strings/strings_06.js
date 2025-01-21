@@ -5,6 +5,4 @@ Print the resulting string. */
 let num1 = 7;
 let num2 = 5;
 
-let sum = num1 + num2;
-
-console.log(`The sum of ${num1} and ${num2} is ${sum}`);
+let resultString = `The sum of ${num1} and ${num2} is ${num1 + num2}.`;
