@@ -13,7 +13,7 @@ NaN (if the addition involves invalid input).
 */
 
 let num1 = "10";
-let num2 = "notANumber"
+let num2 = "notANumber";
 
 let convertedNum1 = parseFloat(num1);
 let convertedNum2 = parseFloat(num2);
